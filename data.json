@@ -1,0 +1,201 @@
+{
+    "matches": [
+      {
+        "id": 1,
+        "home": "Bélgica",
+        "away": "Eslováquia",
+        "date": "17/06",
+        "time": "17:00"
+      },
+      {
+        "id": 2,
+        "home": "Áustria",
+        "away": "França",
+        "date": "17/06",
+        "time": "20:00"
+      },
+      {
+        "id": 3,
+        "home": "Turquia",
+        "away": "Geórgia",
+        "date": "18/06",
+        "time": "17:00"
+      },
+      {
+        "id": 4,
+        "home": "Portugal",
+        "away": "R Tchéquia",
+        "date": "18/06",
+        "time": "20:00"
+      },
+      {
+        "id": 5,
+        "home": "Croácia",
+        "away": "Albânia",
+        "date": "19/06",
+        "time": "14:00"
+      },
+      {
+        "id": 6,
+        "home": "Alemanha",
+        "away": "Hungria",
+        "date": "19/06",
+        "time": "17:00"
+      },
+      {
+        "id": 7,
+        "home": "Escócia",
+        "away": "Suíça",
+        "date": "19/06",
+        "time": "20:00"
+      },
+      {
+        "id": 8,
+        "home": "Eslovênia",
+        "away": "Sérvia",
+        "date": "20/06",
+        "time": "14:00"
+      },
+      {
+        "id": 9,
+        "home": "Dinamarca",
+        "away": "Inglaterra",
+        "date": "20/06",
+        "time": "17:00"
+      },
+      {
+        "id": 10,
+        "home": "Espanha",
+        "away": "Itália",
+        "date": "20/06",
+        "time": "20:00"
+      },
+      {
+        "id": 11,
+        "home": "Eslováquia",
+        "away": "Ucrânia",
+        "date": "21/06",
+        "time": "14:00"
+      },
+      {
+        "id": 12,
+        "home": "Polônia",
+        "away": "Áustria",
+        "date": "21/06",
+        "time": "17:00"
+      },
+      {
+        "id": 13,
+        "home": "Holanda",
+        "away": "França",
+        "date": "21/06",
+        "time": "20:00"
+      },
+      {
+        "id": 14,
+        "home": "Geórgia",
+        "away": "R Tchéquia",
+        "date": "22/06",
+        "time": "14:00"
+      },
+      {
+        "id": 15,
+        "home": "Turquia",
+        "away": "Portugal",
+        "date": "22/06",
+        "time": "17:00"
+      },
+      {
+        "id": 16,
+        "home": "Bélgica",
+        "away": "Romênia",
+        "date": "22/06",
+        "time": "20:00"
+      },
+      {
+        "id": 17,
+        "home": "Suíça",
+        "away": "Alemanha",
+        "date": "23/06",
+        "time": "20:00"
+      },
+      {
+        "id": 18,
+        "home": "Escócia",
+        "away": "Hungria",
+        "date": "23/06",
+        "time": "20:00"
+      },
+      {
+        "id": 19,
+        "home": "Albânia",
+        "away": "Espanha",
+        "date": "24/06",
+        "time": "20:00"
+      },
+      {
+        "id": 20,
+        "home": "Croácia",
+        "away": "Itália",
+        "date": "24/06",
+        "time": "20:00"
+      },
+      {
+        "id": 21,
+        "home": "França",
+        "away": "Polônia",
+        "date": "25/06",
+        "time": "17:00"
+      },
+      {
+        "id": 22,
+        "home": "Holanda",
+        "away": "Áustria",
+        "date": "25/06",
+        "time": "17:00"
+      },
+      {
+        "id": 23,
+        "home": "Dinamarca",
+        "away": "Sérvia",
+        "date": "25/06",
+        "time": "20:00"
+      },
+      {
+        "id": 24,
+        "home": "Inglaterra",
+        "away": "Eslovênia",
+        "date": "25/06",
+        "time": "20:00"
+      },
+      {
+        "id": 25,
+        "home": "Eslováquia",
+        "away": "Romênia",
+        "date": "26/06",
+        "time": "17:00"
+      },
+      {
+        "id": 26,
+        "home": "Ucrânia",
+        "away": "Bélgica",
+        "date": "26/06",
+        "time": "17:00"
+      },
+      {
+        "id": 27,
+        "home": "Geórgia",
+        "away": "Portugal",
+        "date": "26/06",
+        "time": "20:00"
+      },
+      {
+        "id": 28,
+        "home": "R Tchéquia",
+        "away": "Turquia",
+        "date": "26/06",
+        "time": "20:00"
+      }
+    ]
+  }
+ 
